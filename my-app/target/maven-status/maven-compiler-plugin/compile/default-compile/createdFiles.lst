@@ -1,0 +1,5 @@
+com\mycompany\app\App.class
+com\mycompany\app\TxParams.class
+com\mycompany\app\GenerateKeys.class
+com\mycompany\app\GenkeyHandler.class
+com\mycompany\app\Transaction.class
